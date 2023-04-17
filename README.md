@@ -3,8 +3,7 @@
 #  code🗲god 
 
 **<summary><h3>`Digital 💻 Craftsman (Developer/Creator/Designer)`**</h3></summary>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Graduate&weight=600&pause=1000&color=4EF75D&center=true&width=435&lines=Hey+%F0%9F%91%8B%2C++This+is+code%F0%9F%97%B2god+;Welcome+to+my+Github+page)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Graduate&weight=600&pause=1000&color=4EF75D&width=435&lines=Hey+%F0%9F%91%8B%2C++This+is+code%F0%9F%97%B2god+;Welcome+to+my+Github+page)](https://git.io/typing-svg)
 
 I'm a full-stack frontend developer and graphic designer building my version of the digital world one step at a time. All coding projects are built out of passion, from planning and designing all the way to solving real-life problems with code and graphics.
 
