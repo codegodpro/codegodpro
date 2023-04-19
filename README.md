@@ -126,7 +126,7 @@ Brain Storm			7hrs	▒░░░░░░░░░░░░░░░░░░░�
 ---
 
 ### 🔗 🌐Social info:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codegod.pro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codegod_pro) [![Twitter](https://img.shields.io/twitter/follow/codegodpro?logo=Twitter&style=for-the-badge)](https://twitter.com/codegodpro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codegod.pro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/](https://www.linkedin.com/in/kingsley-agada-2894bab5)) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codegod_pro) [![Twitter](https://img.shields.io/twitter/follow/codegodpro?logo=Twitter&style=for-the-badge)](https://twitter.com/codegodpro)
 
 ---
 
