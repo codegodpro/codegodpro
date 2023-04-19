@@ -1,14 +1,13 @@
   <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlODI1MzM2NTk4YWMyNDA3NjBlODNlMGIwNTI1OTc3ODYxMTUzZCZjdD1n/46CGSYd6lpT3AunKNZ/giphy.gif width="100%"/>
 </div>
 
-<h1 align="left"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Kingsley
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Graduate&pause=1000&width=435&lines=This+is+codegod%E2%9A%A1%EF%B8%8F+github+page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Graduate&weight=600&size=24&duration=2500&pause=1000&center=true&width=435&height=75&lines=Welcome+to+;code%E2%9A%A1%EF%B8%8Fgod+github+page)](https://git.io/typing-svg)
 
----
 
 ### 👦 About Me:
 - 👨‍💻  I’m currently working on **Website and WebApps Development**
