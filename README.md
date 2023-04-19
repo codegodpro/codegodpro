@@ -1,15 +1,16 @@
-
-
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRlODI1MzM2NTk4YWMyNDA3NjBlODNlMGIwNTI1OTc3ODYxMTUzZCZjdD1n/46CGSYd6lpT3AunKNZ/giphy.gif width="100%"/>
 </div>
 
-<h2 align="center">Hi 👋, I'm Kingsley</h2>
+<h1 align="left"> Hi,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Kingsley
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Graduate&pause=1000&width=435&lines=This+is+codegod%E2%9A%A1%EF%B8%8F+github+page)](https://git.io/typing-svg)
 
 ---
-### 👦 About Me
+
+### 👦 About Me:
 - 👨‍💻  I’m currently working on **Website and WebApps Development**
 
 - 🌱 I’m currently learning and advancing on **CSS, JAVASCRIPTS, PHP**
@@ -29,18 +30,20 @@
 
 --- 
 
-### 🔥 My Stats 
+### 🔥 My Stats: 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=codegodpro&count_private=true&show_icons=true&theme=react)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=codegodpro&theme=react)
+
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=codegodpro&theme=react-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codegodpro&layout=compact&langs_count=10&theme=react)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codegodpro&theme=react) 
---- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react)
+
+---  
 
 
-### ⚙️ My Projects 
+### ⚙️ My Projects: 
 
 #### Full-Stack Projects :
 
@@ -59,7 +62,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools 
+### :hammer_and_wrench: Languages and Tools: 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -100,7 +103,7 @@
 
 ---
 
-### 📈 Weekly Developement Breakdown
+### 📈 Weekly Developement Breakdown:
 
 
 <!--START_SECTION:waka-simple-->
@@ -122,30 +125,12 @@ Brain Storm			7hrs	▒░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 🔗 Social info
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.codegod.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://codegod.pro/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-<p align="left">  
-<a href="https://twitter.com/codegodpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codegodpro" height="30" width="40" /></a>  
-<a href="https://fb.com/code god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="code god" height="30" width="40" /></a>  
-<a href="https://instagram.com/codegod.pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codegod.pro" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/codegod_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codegod_pro" height="30" width="40" /></a>  
-</p>   
- </a>
-   
-</div>
+### 🔗 🌐Social info:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codegod.pro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codegod_pro) [![Twitter](https://img.shields.io/twitter/follow/codegodpro?logo=Twitter&style=for-the-badge)](https://twitter.com/codegodpro)
 
 ---
 
-### 👀 Visitor Info
+### 👀 Visitor Info:
 
 ![Hitcount](https://komarev.com/ghpvc/?username=codegodpro&color=57bcd9)
 
