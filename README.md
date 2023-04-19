@@ -48,17 +48,11 @@
 
 * [Online Banking](https://github.com/codegodpro)
 * [Courier System](https://github.com/codegodpro)
-* [100+ Web Tools](https://github.com/codegodpro)
-* [Meal Planner](https://github.com/codegodpro)
-
-
-#### Frontend Projects :
-
 * [NFT Project](https://github.com/codegodpro)
 * [Portfolio](https://github.com/codegodpro)
 * [Charity](https://github.com/codegodpro)
 * [Blog](https://github.com/codegodpro)
-
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools: 
